@@ -1,4 +1,5 @@
-###🧬 Bioinformatics GUI Suite 🧪
+# Bioinformatics GUI Suite 🧪
+
 Welcome to the Bioinformatics GUI Suite, a collection of user-friendly applications developed in Python using Tkinter for various bioinformatics analyses! This suite includes:
 
 Alignment Tool 🧬: Perform sequence alignment using algorithms such as Needleman-Wunsch or Smith-Waterman, crucial for comparing biological sequences.
